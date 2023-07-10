@@ -3,6 +3,8 @@ bqnt simple onebot adapter wss
 
 这个适配器主要用于连接獭獭
 
+7月10日，目前已知一个bug，可能导致自动崩溃，将在v4版本修复。
+
 请记得redtata.exe要和这个仓库的4个dll放在同一目录，否则报错
 
 https://xn--v9x.net/
