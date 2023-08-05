@@ -19,10 +19,11 @@ https://xn--v9x.net/
 
 
 # 操作【一】
+betterqqnt不再更新和分发了，本项目的使命就到此结束了...
 
-一加入bqnt频道获取 dll  https://t.me/betterqqnt
+~~一加入bqnt频道获取 dll  https://t.me/betterqqnt~~
 
-不可以分发所以请自行在原项目仓库获取：https://github.com/BetterQQNT/BetterQQNT
+~~不可以分发所以请自行在原项目仓库获取：https://github.com/BetterQQNT/BetterQQNT~~
 
 因为某些原因()，bqnt的获取现在需要通过安装koishi、choronocat来使用，用koishi的chronocat/launcher启动后，绿灯状态，下方用法依然有效。
 
